@@ -1,0 +1,190 @@
+[04:40:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[04:40:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[04:40:21] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:40:23] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[04:40:23] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - nightcore (2.7.4)
+[04:40:23] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - EnderDragon (2.5.5), ExcellentEnchants (4.3.3), Geyser-Spigot (2.6.1-SNAPSHOT), ViaBackwards (5.2.1), ViaVersion (5.2.1), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[04:40:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:40:32] [ServerMain/INFO]: Loaded 1337 recipes
+[04:40:32] [ServerMain/INFO]: Loaded 1448 advancements
+[04:40:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:40:32] [Server thread/INFO]: Loading properties
+[04:40:32] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[04:40:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:40:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:40:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:40:34] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:40:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:40:35] [Server thread/INFO]: Default game type: SURVIVAL
+[04:40:35] [Server thread/INFO]: Generating keypair
+[04:40:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:40:35] [Server thread/INFO]: Using epoll channel type
+[04:40:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:40:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:40:36] [Server thread/INFO]: [nightcore] Server version detected as Paper 1.21.3. Using paper-bridge.
+[04:40:36] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[04:40:37] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[04:40:37] [Server thread/INFO]: [floodgate] Took 1,065ms to boot Floodgate
+[04:40:37] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[04:40:37] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[04:40:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[04:40:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[04:40:39] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[04:40:39] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[04:40:40] [Server thread/INFO]: [nightcore] Loading server plugin nightcore v2.7.4
+[04:40:40] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
+[04:40:41] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[04:40:41] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[04:40:41] [Server thread/INFO]: [EnderDragon] Loading server plugin EnderDragon v2.5.5
+[04:40:41] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
+[04:40:41] [Server thread/INFO]: [ExcellentEnchants] Loading server plugin ExcellentEnchants v4.3.3
+[04:40:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:40:41] [Server thread/INFO]: [nightcore] Enabling nightcore v2.7.4
+[04:40:41] [Server thread/INFO]: [nightcore] Time zone set as Etc/UTC
+[04:40:41] [Server thread/INFO]: [nightcore] Plugin loaded in 264 ms!
+[04:40:41] [Server thread/INFO]: [ExcellentEnchants] Enabling ExcellentEnchants v4.3.3
+[04:40:41] [Server thread/INFO]: [ExcellentEnchants] Powered by nightcore
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Loaded 4 rarities.
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: auto_reel
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: double_catch
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: seasoned_angler
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: survivalist
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_drowned
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: river_master
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blast_mining
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_breaking
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_misfortune
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: divine_touch
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: haste
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: lucky_miner
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: replanter
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: silk_chest
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: smelter
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: telekinesis
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: treasure_hunter
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: tunnel
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: veinminer
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bane_of_netherspawn
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blindness
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusion
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cutter
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_death
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: decapitator
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: double_strike
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exhaust
+[04:40:42] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exp_hunter
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ice_aspect
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: infernus
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: nimble
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: paralyze
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cure
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rage
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rocket
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: scavenger
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: surprise
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: swiper
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: temper
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thrifty
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thunder
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: vampire
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: venom
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: village_defender
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: wither
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: aquaman
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bunny_hop
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cold_steel
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ice_shield
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: elemental_protection
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: fire_shield
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: flame_walker
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hardened
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: night_vision
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: regrowth
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: saturation
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: self_destruction
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rebound
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: stopping_force
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: sonic
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bomber
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusing_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: dragonfire_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: electrified_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ender_bow
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: explosive_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: lingering
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: flare
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ghast
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hover
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: sniper
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: poisoned_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: vampiric_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: withered_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: darkness_arrows
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: darkness_cloak
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_fragility
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_mediocrity
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: soulbound
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: restore
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Enchantments Registered: 80
+[04:40:43] [Server thread/WARN]: [ExcellentEnchants] You need to install packetevents or ProtocolLib for enchantment description to work.
+[04:40:43] [Server thread/INFO]: [ExcellentEnchants] Plugin loaded in 1516 ms!
+[04:40:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:40:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:40:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:40:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:40:43] [Server thread/INFO]: Preparing level "world"
+[04:40:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:40:44] [Server thread/INFO]: Preparing spawn area: 0%
+[04:40:44] [Server thread/INFO]: Preparing spawn area: 2%
+[04:40:45] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[04:40:45] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 595.1ms
+[04:40:45] [Server thread/INFO]: Preparing spawn area: 2%
+[04:40:45] [Server thread/INFO]: Preparing spawn area: 2%
+[04:40:46] [Server thread/INFO]: Preparing spawn area: 22%
+[04:40:46] [Server thread/INFO]: Preparing spawn area: 22%
+[04:40:46] [Server thread/INFO]: Time elapsed: 2613 ms
+[04:40:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:40:47] [Server thread/INFO]: Preparing spawn area: 0%
+[04:40:47] [Server thread/INFO]: Preparing spawn area: 100%
+[04:40:47] [Server thread/INFO]: Time elapsed: 501 ms
+[04:40:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:40:47] [Server thread/INFO]: Preparing spawn area: 0%
+[04:40:47] [Server thread/INFO]: Time elapsed: 347 ms
+[04:40:47] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[04:40:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[04:40:48] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[04:40:49] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
+[04:40:49] [Server thread/INFO]: [EnderDragon] Enabling EnderDragon v2.5.5
+[04:40:49] [Server thread/INFO]: [EnderDragon] Enabling plugin...
+[04:40:49] [Server thread/INFO]: [EnderDragon] Author: Xanadu13
+[04:40:49] [Server thread/INFO]: [EnderDragon] Found version: v1_21_R2
+[04:40:49] [Server thread/INFO]: [EnderDragon] Language: English
+[04:40:49] [Server thread/INFO]: [EnderDragon] Checking update...
+[04:40:49] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[04:40:49] [Server thread/INFO]: [spark] Starting background profiler...
+[04:40:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:40:50] [Server thread/INFO]: [Geyser-Spigot] 
+[04:40:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b785 (git-master-f27290a)
+[04:40:50] [Server thread/INFO]: [Geyser-Spigot] 
+[04:40:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:41:00] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3879
+[04:41:00] [Server thread/INFO]: [Geyser-Spigot] Done (9.737s)! Run /geyser help for help!
+[04:41:00] [Server thread/INFO]: Done preparing level "world" (17.218s)
+[04:41:00] [Server thread/INFO]: Running delayed init tasks
+[04:41:00] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[04:41:00] [Craft Scheduler Thread - 0 - EnderDragon/INFO]: [EnderDragon] You are using the latest version (v2.5.5)...
+[04:41:00] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[04:41:13] [Server thread/INFO]: [EnderDragon] Reading file view.yml
+[04:41:13] [Server thread/INFO]: Done (58.176s)! For help, type "help"
+[04:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12588ms or 251 ticks behind
+[04:41:20] [Server thread/INFO]: [EnderDragon] 0 auto_respawn task(s) started to run...
+[04:43:14] [User Authenticator #0/INFO]: UUID of player Aladuro is 0eeb85b6-6742-39ba-808b-62b8488c711e
+[04:43:17] [Server thread/INFO]: Aladuro joined the game
+[04:43:17] [Server thread/INFO]: Aladuro[/127.233.13.21:50397] logged in with entity id 86 at ([world_the_end]2.724563979004836, 67.49598474857952, 0.48939607619896675)
+[04:43:41] [Server thread/INFO]: Aladuro issued server command: /kill @e
+[04:43:41] [Server thread/INFO]: Aladuro was killed
+[04:43:41] [Server thread/INFO]: [Aladuro: Killed 97 entities]
+[04:44:37] [Server thread/INFO]: [EnderDragon] Ender dragon number 1 has been spawned.
+[04:44:37] [Server thread/INFO]: [EnderDragon] This dragon exudes a mysterious atmosphere...
