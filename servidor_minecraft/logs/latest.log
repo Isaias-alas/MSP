@@ -188,3 +188,30 @@
 [04:43:41] [Server thread/INFO]: [Aladuro: Killed 97 entities]
 [04:44:37] [Server thread/INFO]: [EnderDragon] Ender dragon number 1 has been spawned.
 [04:44:37] [Server thread/INFO]: [EnderDragon] This dragon exudes a mysterious atmosphere...
+[04:54:52] [User Authenticator #1/INFO]: UUID of player Darkphel is fe87c066-cab4-31d6-b2dd-88e014b20a5e
+[04:54:53] [Server thread/INFO]: Darkphel joined the game
+[04:54:53] [Server thread/INFO]: Darkphel[/127.171.30.69:41531] logged in with entity id 935 at ([world]45.5, 67.0, -53.5)
+[04:55:23] [Server thread/INFO]: Aladuro issued server command: /gamemode creative Darkphel
+[04:55:23] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Creative Mode]
+[04:55:29] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel Aladuro
+[04:55:29] [Server thread/INFO]: Darkphel has made the advancement [The End?]
+[04:55:29] [Server thread/INFO]: [Aladuro: Teleported Darkphel to Aladuro]
+[04:55:57] [Server thread/INFO]: Aladuro issued server command: /gamemode survival Darkphel
+[04:55:57] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Survival Mode]
+[04:56:03] [Server thread/INFO]: Aladuro issued server command: /gamemode creative Darkphel
+[04:56:03] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Creative Mode]
+[04:56:33] [Server thread/INFO]: Darkphel has completed the challenge [Cover Me in Debris]
+[04:56:36] [Server thread/INFO]: Aladuro issued server command: /gamemode survival Darkphel
+[04:56:36] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Survival Mode]
+[04:56:44] [Server thread/INFO]: Aladuro issued server command: /gamemode creative Darkphel
+[04:56:44] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Creative Mode]
+[04:57:02] [Server thread/INFO]: Darkphel has made the advancement [Monster Hunter]
+[04:59:16] [Server thread/INFO]: Aladuro issued server command: /effect give @a minecraft:night_vision infinite
+[04:59:16] [Server thread/INFO]: [Aladuro: Applied effect Night Vision to 2 targets]
+[04:59:28] [Server thread/INFO]: Aladuro issued server command: /gamemode survival Darkphel
+[04:59:28] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Survival Mode]
+[04:59:49] [Server thread/INFO]: Aladuro issued server command: /effect clear @a minecraft:night_vision infinite
+[04:59:56] [Server thread/INFO]: Aladuro issued server command: /effect clear @a
+[04:59:56] [Server thread/INFO]: [Aladuro: Removed every effect from 2 targets]
+[05:00:26] [Server thread/INFO]: Darkphel has made the advancement [Take Aim]
+[05:00:30] [Server thread/INFO]: Darkphel was doomed to fall
