@@ -130,6 +130,9 @@ Settings:
       AXOLOTL: 5c167410409336acc58e6433ffa8b7f86a8786e35ec7300b9062340281d4691c
       GHAST: 64ab8a22e7687cc4c78f3b6ff5b1eb04917b51cd3cd7dbce36171160b3c77ced
       SALMON: 8aeb21a25e46806ce8537fbd6668281cf176ceafe95af90e94a5fd84924878
+  # Enchantments that are incompatible with this enchantment.
+  # [*] Reboot required when changed.
+  Conflicts: []
 Distribution:
   # Sets whether this enchantment is a treasure enchantment.
   # Treasure enchantments are those that can't be obtained using an enchantment table, and won't be generated on randomly enchanted equipment sold by villagers or worn by mobs.

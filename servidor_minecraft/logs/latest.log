@@ -228,3 +228,37 @@
 [05:09:19] [Server thread/INFO]: [Aladuro: Killed Darkphel]
 [05:09:24] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel
 [05:09:24] [Server thread/INFO]: [Aladuro: Teleported Aladuro to Darkphel]
+[05:11:07] [Server thread/INFO]: Villager Villager['Villager'/1012, uuid='9f102853-3a7d-4818-8864-be8b0f563385', l='ServerLevel[world]', x=61.33, y=64.00, z=78.11, cpos=[3, 4], tl=22011, v=true] died, message: 'Villager was slain by Zombie'
+[05:11:47] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel
+[05:11:47] [Server thread/INFO]: [Aladuro: Teleported Aladuro to Darkphel]
+[05:14:27] [Server thread/INFO]: Villager Villager['Villager'/983, uuid='8302100f-a543-4d68-a03a-6be99fce9451', l='ServerLevel[world]', x=48.66, y=64.95, z=76.03, cpos=[3, 4], tl=26195, v=true] died, message: 'Villager was blown up by Darkphel'
+[05:14:28] [Server thread/INFO]: Villager Villager['Villager'/996, uuid='a0248725-13a8-4207-acd3-16707525469e', l='ServerLevel[world]', x=55.12, y=64.03, z=89.66, cpos=[3, 5], tl=25788, v=true] died, message: 'Villager was blown up by Darkphel'
+[05:14:28] [Server thread/INFO]: Villager Villager['Villager'/1011, uuid='5ca3c82d-3cf6-4f30-8353-02b4d0b9106a', l='ServerLevel[world]', x=55.58, y=61.52, z=90.99, cpos=[3, 5], tl=25811, v=true] died, message: 'Villager was blown up by Darkphel'
+[05:17:09] [Server thread/INFO]: Villager Villager['Villager'/1039, uuid='4d01aa13-2ceb-4cc5-8d1c-d3fc4902536b', l='ServerLevel[world]', x=26.50, y=64.00, z=116.50, cpos=[1, 7], tl=27694, v=true] died, message: 'Villager was blown up by Darkphel'
+[05:17:10] [Server thread/INFO]: Villager Villager['Villager'/1094, uuid='584f4a9f-c3fe-48fd-b168-b577d8ecb56d', l='ServerLevel[world]', x=23.47, y=64.00, z=116.30, cpos=[1, 7], tl=24843, v=true] died, message: 'Villager was blown up by Darkphel'
+[05:17:12] [Server thread/INFO]: Villager Villager['Villager'/1042, uuid='babe4381-a0d8-433b-9c20-40d0206904be', l='ServerLevel[world]', x=5.73, y=65.21, z=92.28, cpos=[0, 5], tl=24919, v=true] died, message: 'Villager was blown up by Darkphel'
+[05:17:52] [Server thread/INFO]: Aladuro issued server command: /excellentenchants help
+[05:18:20] [Server thread/INFO]: Aladuro issued server command: /eenchants reload
+[05:18:20] [Server thread/INFO]: [ExcellentEnchants] Loaded 4 rarities.
+[05:18:20] [Server thread/WARN]: [ExcellentEnchants] You need to install packetevents or ProtocolLib for enchantment description to work.
+[05:18:36] [Server thread/INFO]: Aladuro issued server command: /eenchants list Aladuro
+[05:18:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:18:46] [Server thread/INFO]: Aladuro issued server command: /eenchants list Darkphel
+[05:18:59] [Server thread/INFO]: Darkphel has made the advancement [Stone Age]
+[05:19:16] [Server thread/INFO]: Aladuro issued server command: /eenchants list Aladuro
+[05:20:00] [Server thread/INFO]: Villager Villager['Villager'/959, uuid='00cdda10-5179-46ed-9fee-7b3862838c71', l='ServerLevel[world]', x=11.79, y=71.56, z=48.46, cpos=[0, 3], tl=33191, v=true] died, message: 'Villager was blown up by Aladuro'
+[05:20:13] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel
+[05:20:13] [Server thread/INFO]: [Aladuro: Teleported Aladuro to Darkphel]
+[05:20:26] [Server thread/INFO]: Aladuro issued server command: /gamemode survival Darkphel
+[05:20:26] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Survival Mode]
+[05:20:29] [Server thread/INFO]: Aladuro has made the advancement [Stone Age]
+[05:20:42] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel Aladuro
+[05:20:42] [Server thread/INFO]: [Aladuro: Teleported Darkphel to Aladuro]
+[05:20:51] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel Aladuro
+[05:20:51] [Server thread/INFO]: [Aladuro: Teleported Darkphel to Aladuro]
+[05:20:53] [Server thread/INFO]: Darkphel was doomed to fall by Zombie
+[05:20:57] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel Aladuro
+[05:20:57] [Server thread/INFO]: [Aladuro: Teleported Darkphel to Aladuro]
+[05:20:58] [Server thread/INFO]: Darkphel fell from a high place
+[05:21:01] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel Aladuro
+[05:21:01] [Server thread/INFO]: [Aladuro: Teleported Darkphel to Aladuro]
