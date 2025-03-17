@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "fe87c066-cab4-31d6-b2dd-88e014b20a5e",
+    "name": "Darkphel",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "00000000-0000-0000-0009-01fd9266579a",
     "name": ".TheMasterAladur",
     "level": 4,

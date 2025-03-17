@@ -215,3 +215,16 @@
 [04:59:56] [Server thread/INFO]: [Aladuro: Removed every effect from 2 targets]
 [05:00:26] [Server thread/INFO]: Darkphel has made the advancement [Take Aim]
 [05:00:30] [Server thread/INFO]: Darkphel was doomed to fall
+[05:00:55] [Server thread/INFO]: Aladuro issued server command: /gamemode creative Darkphel
+[05:00:55] [Server thread/INFO]: [Aladuro: Set Darkphel's game mode to Creative Mode]
+[05:00:59] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel Aladuro
+[05:00:59] [Server thread/INFO]: [Aladuro: Teleported Darkphel to Aladuro]
+[05:01:03] [Server thread/INFO]: Aladuro issued server command: /op Darkphel
+[05:01:03] [Server thread/INFO]: [Aladuro: Made Darkphel a server operator]
+[05:07:42] [Server thread/INFO]: Darkphel has made the advancement [Free the End]
+[05:07:42] [Server thread/INFO]: Named entity EnderDragon['Special Ender Dragon'/345, uuid='75488dc6-a786-4188-a16a-518976814a19', l='ServerLevel[world_the_end]', x=-0.52, y=73.47, z=-1.60, cpos=[-1, -1], tl=27696, v=true] died: Special Ender Dragon was killed by [Intentional Game Design]
+[05:09:19] [Server thread/INFO]: Aladuro issued server command: /kill Darkphel
+[05:09:19] [Server thread/INFO]: Darkphel was killed
+[05:09:19] [Server thread/INFO]: [Aladuro: Killed Darkphel]
+[05:09:24] [Server thread/INFO]: Aladuro issued server command: /tp Darkphel
+[05:09:24] [Server thread/INFO]: [Aladuro: Teleported Aladuro to Darkphel]
